@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/nelsyeung/usemin-cli#readme",
   "dependencies": {
-    "usemin": "^0.6.0",
+    "usemin": "github:priyansh-bhardwaj-juspay/usemin",
     "yargs": "^6.6.0"
   },
   "devDependencies": {
